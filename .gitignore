@@ -1,0 +1,13 @@
+# Secrets
+backend/config.php
+
+# Node / Expo
+node_modules/
+.expo/
+dist/
+web-build/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
